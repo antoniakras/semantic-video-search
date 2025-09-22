@@ -59,6 +59,9 @@ I tested and compared FAISS, Pinecone, and PostgreSQL on:
 ---
 
 ## 📸 Screenshots 
+**Workflow**
+
+<img width="754" height="471" alt="Workflow_final" src="https://github.com/user-attachments/assets/2572ace9-4a97-414e-963f-2e6041e494bc" />
 
 ---
 
