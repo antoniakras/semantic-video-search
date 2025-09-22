@@ -1,4 +1,4 @@
-#GPU-Optimized Vector Search Pipeline (Python, Linux – FORTH Research Infrastructure)
+# GPU-Optimized Vector Search Pipeline (Python, Linux – FORTH Research Infrastructure)
 
 * Python software development on Linux (Ubuntu) for GPU-accelerated vector search and retrieval.
 
