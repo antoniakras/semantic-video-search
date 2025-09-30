@@ -67,6 +67,6 @@ I tested and compared FAISS, Pinecone, and PostgreSQL on:
 
 ## About This Project
 - **Type**: Bachelor Thesis Project  
-- **Institution**: University of Cretw, Computer Science Department  
+- **Institution**: University of Crete, Computer Science Department  
 - **Research Infrastructure**: The Foundation for Research and Technology - Hellas (FORTH) 
 
